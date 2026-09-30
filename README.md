@@ -45,7 +45,7 @@ O projeto permite colocar em prática os conhecimentos de:
 
  
   ## Autor
-  Desenvolvido por Luan Santos da Silva
+  Desenvolvido por Luan Santos da Silva/
   Feito em SENAI-Palhoça
     
   
