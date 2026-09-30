@@ -39,11 +39,12 @@ O projeto permite colocar em prática os conhecimentos de:
 - Diferenciar visualmente os filmes assistidos ou não assistidos.
 
   ## Como Executar
-  1. Abaixe ou clone o projeto;
+ 1. Abaixe ou clone o projeto;
   2. Abra a pasta do projeto;
   3. Execute a aplicação
+
  
-  ##Autor
+  ## Autor
   Desenvolvido por Luan Santos da Silva
   Feito em SENAI-Palhoça
     
